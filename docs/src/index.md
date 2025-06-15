@@ -1,13 +1,13 @@
 ```@meta
-CurrentModule = CartesianProducts
+CurrentModule = IgaFormation
 ```
-# CartesianProducts
+# IgaFormation
 
 ## Index
 ```@index
 ```
 
 ```@autodocs
-Modules = [CartesianProducts]
+Modules = [IgaFormation]
 Order   = [:function, :type]
 ```
